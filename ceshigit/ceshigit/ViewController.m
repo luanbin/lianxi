@@ -19,6 +19,9 @@
     
     self.view.backgroundColor = [UIColor redColor];
     
+    UILabel *la = [[UILabel alloc] init];
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
